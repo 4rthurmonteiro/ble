@@ -14,6 +14,6 @@ Vá em `Component config -> Bluetooth -> [X] Bluetooth`. Após habilitar o bluet
 
 Agora seu BLE está ativado, salve e saia.
 
-# Passo 3 - 
+# Passo 3 - Só rodar o exemplo :smile:
 
 
